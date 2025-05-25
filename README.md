@@ -3,7 +3,7 @@
 ![Profile Banner](https://github.com/CharlieBrown110/CharlieBrown110/assets/your-banner.png) <!-- Optional: Add your own banner image! -->
 
 ## 🚀 About Me
-I'm a **senior undergraduate Computer Science major** with a passion for building impactful software. My aspiration is to become a **Fullstack Software Engineer** with a keen interest in **Machine Learning (ML), Deep Learning (DL),** and exploring the world of **blockchain technologies**.
+I'm a **senior undergraduate Computer Science major at SUST** with a passion for building impactful software. My aspiration is to become a **Fullstack Software Engineer** with a keen interest in **Machine Learning (ML), Deep Learning (DL),** and exploring the world of **blockchain technologies**.
 
 - 🌐 Comfortable with the **MERN stack** (MongoDB, Express.js, React, Node.js)
 - 🤖 Enthusiastic about ML/DL and excited to apply them in real-world projects
